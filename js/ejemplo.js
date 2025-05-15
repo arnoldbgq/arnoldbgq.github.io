@@ -1,5 +1,5 @@
 
-document.getElementById("calcular").addEventListener("click", function(){
+document.getElementById("calcular").addEventListener("click", function() {
     let num1 = parseFloat(document.getElementById("numero1").value);//8
     let num2 = parseFloat(document.getElementById("numero2").value);//2
     let operacion = document.getElementById("operacion").value;//suma
