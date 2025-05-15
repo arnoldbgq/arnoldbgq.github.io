@@ -1,3 +1,4 @@
+alert("JAVASCRIPT");
 document.getElementById("calular").addEventListener("click", function(){
     let num1 = parseFloat(document.getElementById("numero1").value);//8
     let num2 = parseFloat(document.getElementById("numero2").value);//2
