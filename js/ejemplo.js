@@ -1,4 +1,5 @@
-document.getElementById("calcular").addEventListener("click", function() {
+
+document.getElementById("calcular").addEventListener("click", function(){
     let num1 = parseFloat(document.getElementById("numero1").value);
     let num2 = parseFloat(document.getElementById("numero2").value);
     let operacion = document.getElementById("operacion").value;
