@@ -4,7 +4,7 @@ document.getElementById("calcular").addEventListener("click", function(){
     let num2 = parseFloat(document.getElementById("numero2").value);
     let operacion = document.getElementById("operacion").value;
     let resultado = document.getElementById("resultado");
-//validacion que no me esta enviando vacios
+
     if(isNaN(num1)||isNaN(num2)){
         resultado.textContent = "Ingrese números Valido";
         return;
