@@ -74,6 +74,7 @@ section{
 }
 article{
    flex: 2;
+    margin: 5rem;
     background-color: white;
     padding: 15px;
     border-radius: 8px;
