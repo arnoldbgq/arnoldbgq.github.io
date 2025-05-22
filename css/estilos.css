@@ -59,7 +59,9 @@ nav ul li a:hover{
     
 }
 
-#paginasAlumnos ul li a{
+#paginasAlumnos ul li{
+    list-style: none;
+    margin: 2em;
     color: white;
     text-decoration: none;
     padding: 8px 12px;
