@@ -60,7 +60,7 @@ nav ul li a:hover{
 }
 
 #paginasAlumnos ul li a{
-
+    align-content: center;
     list-style: none;
     margin: 2em;
     color: white;
@@ -71,6 +71,7 @@ nav ul li a:hover{
     transition: background-color 0.7s;
 }
 #paginasAlumnos ul li a:hover{
+
     background-color: #022a17;
     border-radius: 10px;
 }
