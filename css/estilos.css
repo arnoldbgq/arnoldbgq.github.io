@@ -38,6 +38,7 @@ nav {
     margin: 20px 0;
 }
 nav ul{
+    margin: 3%;
     list-style: none;
     display: flex;
     justify-content: center;
