@@ -60,6 +60,7 @@ nav ul li a:hover{
 }
 
 #paginasAlumnos ul a li{
+    text-decoration: none;
     text-align: center;
     list-style: none;
     margin: 2em;
