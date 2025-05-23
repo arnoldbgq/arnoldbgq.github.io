@@ -1,7 +1,7 @@
 // Esperar a que el DOM esté completamente cargado
 document.addEventListener("DOMContentLoaded", function () {
   const form = document.getElementById("contactoForm");
-  let formLR = this.document.getElementById("ReclamacionesForm");
+  let formLR = document.getElementById("ReclamacionesForm");
 
   form.addEventListener("submit", function (e) {
     e.preventDefault(); // Evita que el formulario se envíe realmente
