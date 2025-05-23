@@ -17,6 +17,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
     const emailLR = document.getElementById("email").value;
     alert(`Su reclamo fue registrado. Recibira un mensaje de confirmación en su Email ${emailLR}.`);
-        form.reset();
+        formLR.reset();
   });
 });
