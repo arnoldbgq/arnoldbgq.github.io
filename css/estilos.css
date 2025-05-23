@@ -58,6 +58,14 @@ nav ul li a:hover{
     border-radius: 10px;
     
 }
+#entregable{
+    color: white;
+    text-decoration: none;
+    padding: 8px 12px;
+    background-color: #07967e;
+    border-radius: 5px;
+    transition: background-color 0.7s;
+}
 
 #paginasAlumnos ul a li{
     text-decoration: none;
